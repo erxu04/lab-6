@@ -17,3 +17,8 @@ td, th {
   border: 0px;
   background-color: #dcdcdc;
 }
+
+#emptyBox {
+  border: 0px;
+  background-color: white;
+}
