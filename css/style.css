@@ -1,5 +1,6 @@
 body {
   font-family: Gabarito;
+  background-image: url('../images/space.jpg');
 }
 
 td, th {
@@ -26,8 +27,7 @@ td, th {
 }
 
 #emptyBox {
-  border: 0px;
-  background-color: white;
+  background: transparent;
 }
 
 .bolded {
