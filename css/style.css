@@ -29,3 +29,7 @@ td, th {
   border: 0px;
   background-color: white;
 }
+
+.bolded {
+  font-weight: bold;
+}
