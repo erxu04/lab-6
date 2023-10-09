@@ -7,4 +7,9 @@ td, th {
   top: -5px;
   font-size: 0.7em;
 }
+
+.image {
+  width: 100px;
+  height: 100px;
+}
   
