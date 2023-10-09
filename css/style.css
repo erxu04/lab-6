@@ -12,4 +12,8 @@ td, th {
   width: 200px;
   height: 200px;
 }
-  
+
+.label {
+  border: 0px;
+  background-color: #dcdcdc;
+}
