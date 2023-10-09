@@ -27,9 +27,22 @@ td, th {
 }
 
 #emptyBox {
-  background: transparent;
+  background-color: #708090;
 }
 
 .bolded {
   font-weight: bold;
+}
+
+.everyother1 {
+  background-color: #dcdcdc;
+}
+
+.everyother2 {
+  background-color: #708090;
+  color: #dcdcdc;
+}
+
+#pageTitle {
+  color: #dcdcdc;
 }
