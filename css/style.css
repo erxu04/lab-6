@@ -1,6 +1,7 @@
 td, th {
 	border: 0px solid;
   text-align: center;
+  border-radius: 10px;
   }
 
 .super {
@@ -12,6 +13,7 @@ td, th {
 .image {
   width: 200px;
   height: 200px;
+  border-radius: 10px;
 }
 
 .label {
